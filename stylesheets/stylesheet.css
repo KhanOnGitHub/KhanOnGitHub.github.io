@@ -1,12 +1,17 @@
-.inline-nav {
-  display: inline;
-}
-
 .container {
   margin: 0 auto;
   width: 33%
 }
 
+.inline-nav {
+  display: inline;
+}
+
+.page-header {
+	display: flex;
+}
+
 th {
 	text-align: center;
 }
+

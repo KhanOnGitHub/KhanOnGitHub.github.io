@@ -1,18 +1,23 @@
 .container {
-  margin: 0 auto;
+  margin: 0 auto
   width: 33%
 }
 
 .inline-nav {
-  display: inline;
+  display: inline
 }
 
 .page-header {
-	display: flex;
-	margin: 0 auto;
+	display: block
+	margin: 0 auto
 }
 
 th {
-	text-align: center;
+	text-align: center
+}
+
+body {
+	padding-top: 30%
+	padding-bottom: 30%
 }
 

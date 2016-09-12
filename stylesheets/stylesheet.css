@@ -24,8 +24,8 @@
 }
 
 .inline-nav a:hover p {
-	position: relative;
-	display: inline-block;
+	position: absolute;
+	display: block;
 }
 
 

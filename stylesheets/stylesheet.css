@@ -11,6 +11,14 @@
   display: inline;
 }
 
+.inline-nav a p {
+	display: none;
+}
+
+.inline-nav a:hover p {
+	display: block;
+}
+
 .page-header {
 	display: flex;
 	margin: 0 auto;

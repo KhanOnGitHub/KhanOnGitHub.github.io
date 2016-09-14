@@ -1,9 +1,0 @@
-.inline-nav {
-	display: inline;
-}
-
-.container {
-	margin: 0 auto;
-	width: 33%;
-	background-color: #FFFFFF;
-}

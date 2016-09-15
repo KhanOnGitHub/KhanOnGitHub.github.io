@@ -92,6 +92,16 @@ h6 {
     letter-spacing: 2px;
 }
 
+.myrow {
+    font-size: 0;
+}
+
+.myrow * {
+    float: none;
+    display: inline-block;
+    font-size: 18px;
+}
+
 .content-section-a {
     padding: 50px 0;
     background-color: #f8f8f8;
